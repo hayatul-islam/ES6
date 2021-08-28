@@ -7,3 +7,7 @@
 * Enhance Object
 * Destructuring Array And Object
 * Default Parameter, Rest And Spread Operator 
+* Module System
+* Classes
+* Inheritance
+* Promise
